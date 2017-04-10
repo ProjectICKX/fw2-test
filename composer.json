@@ -1,0 +1,23 @@
+{
+	"name" : "ickx/flywheel2",
+	"description" : "The Flywheel2 Framework.",
+	"keywords" : [
+		"framework",
+		"flywheel2"
+	],
+	"license" : "MIT",
+	"type" : "project",
+	"require" : {
+		"php" : ">=7.1.0",
+		"twig/twig" : "~2.0"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"ickx\\" : "vendor/ickx"
+		}
+	},
+	"config" : {
+		"preferred-install" : "dist",
+		"sort-packages" : true
+	}
+}
