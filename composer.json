@@ -1,9 +1,10 @@
 {
-	"name" : "ickx/flywheel2",
+	"name" : "ickx/fw2",
 	"description" : "The Flywheel2 Framework.",
 	"keywords" : [
 		"framework",
-		"flywheel2"
+		"flywheel2",
+		"fw2"
 	],
 	"license" : "MIT",
 	"type" : "project",
